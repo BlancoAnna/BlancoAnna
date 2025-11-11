@@ -4,6 +4,8 @@ I'm a third-year **Artificial Intelligence** student at the **Universitat Autòn
 
 I am particularly interested in how intelligent systems perceive, interpret, and learn from visual and structured data. I enjoy working on projects where theory, experimentation, and real-world problem-solving meet.
 
+In my Github repositories you'll find some of the projects I been involved in or that I've made.
+
 ---
 
 ### Skills
