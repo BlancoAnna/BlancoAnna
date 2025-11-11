@@ -1,16 +1,29 @@
-## Hi there 👋
+## Anna Blanco Illán
 
-<!--
-**BlancoAnna/BlancoAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year **Artificial Intelligence** student at the **Universitat Autònoma de Barcelona (UAB)**.
 
-Here are some ideas to get you started:
+I am particularly interested in how intelligent systems perceive, interpret, and learn from visual and structured data. I enjoy working on projects where theory, experimentation, and real-world problem-solving meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+
+**Programming Languages**
+- Python, C, Lua
+
+**Tools & Technologies**
+- Jupyter Notebook, Git/GitHub, PyTorch / TensorFlow, Unix/Linux environments, Numpy, Pandas...
+
+---
+
+### Interests
+
+- **Computer Vision** – image understanding, segmentation, object detection  
+- **Machine & Deep Learning** – building, training, and evaluating predictive models  
+- **Data Engineering & Data Organization** – clean architecture, reproducible workflows  
+- **Ethical AI & Regulations** – responsible model deployment, bias, transparency  
+
+---
+### Contact
+- **Email:** [annablanco2005@gmail.com](mailto:annablanco2005@gmail.com)
+---
