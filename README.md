@@ -8,16 +8,6 @@ In my Github repositories you'll find some of the projects I been involved in or
 
 ---
 
-### Skills
-
-**Programming Languages**
-- Python, C, Lua
-
-**Tools & Technologies**
-- Jupyter Notebook, Git/GitHub, PyTorch / TensorFlow, Unix/Linux environments, Numpy, Pandas...
-
----
-
 ### Interests
 
 - **Computer Vision** – image understanding, segmentation, object detection  
